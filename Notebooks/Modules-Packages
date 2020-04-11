@@ -1,0 +1,24 @@
+From a playlist https://www.youtube.com/watch?v=Uei2ILcxuPs&list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6&index=33
+
+What is a Module?
+A python file with functions, classes and other components 
+
+Why use Modules?
+Break code down into reusable structures
+
+Example: 
+from random import randint --- specific import the randint function and nothing else
+
+A module is something we have created in other file 
+
+What is a Package?
+It is a published collections fo modules
+
+[python package index] https://pypi.org/
+    
+install from a list of packages --- pip install -r requirements.txt
+
+Virtual Environment 
+pip install virtualenv # install the Virtual Environment 
+
+virtualenv <folder name> 
